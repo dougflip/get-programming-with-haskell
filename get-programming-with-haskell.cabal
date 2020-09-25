@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 44cfa4ff98d2794ae9dce80e3ddc84760fa6b5fad3e74366bf7efd452da6be4a
+-- hash: b649f054165acffbc7a5b1e2fafbeda4b75122afd70a04cc7a0fef0b4fbeb370
 
 name:           get-programming-with-haskell
 version:        0.1.0.0
@@ -32,6 +32,10 @@ library
       Chapter08
       Chapter09
       Chapter10
+      Chapter11
+      Chapter12
+      Chapter13
+      Chapter22
       Lib
   other-modules:
       Paths_get_programming_with_haskell
